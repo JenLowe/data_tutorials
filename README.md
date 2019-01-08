@@ -4,7 +4,7 @@ GeoNet data tutorials temp repo for testing. <br />
 - Getting Event Data
 - Getting Station Data
 - Getting Seismic Waveform Data
-- Getting Tide Gauge Data <br />
+- Getting Tide Gauge Data 
 [//]: # (Hello)
 **In the folder named Seismic Data there is both R and Pyhton tutorials in:**
 - Accessing single GNSS site information
