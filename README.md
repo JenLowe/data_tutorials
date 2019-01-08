@@ -1,6 +1,6 @@
 # Data Tutorials
-**GeoNet data tutorials temp repo for testing.**
-In the folder named Seismic Data there is both R and Python tutorials in:
+GeoNet data tutorials temp repo for testing. <br />
+**In the folder named Seismic Data there is both R and Python tutorials in:**
 - Getting Event Data
 - Getting Station Data
 - Getting Seismic Waveform Data
