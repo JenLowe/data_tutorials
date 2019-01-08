@@ -1,0 +1,19 @@
+name: GeoNet
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.6
+  - r
+  - r-irkernel 
+  - r-essentials
+  - r-signal
+  - numpy
+  - obspy
+  - pandas
+  - matplotlib
+  - geopandas
+  - geos
+  - proj4
+  - pyproj
+  - basemap
+  - jupyter
