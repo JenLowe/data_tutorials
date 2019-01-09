@@ -8,7 +8,6 @@ dependencies:
   - r-essentials
   - r-signal
   - r-timedate
-  - r-rprojroot
   - pytz
   - numpy
   - obspy
