@@ -7,6 +7,7 @@ dependencies:
   - r-irkernel 
   - r-essentials
   - r-signal
+  - pytz
   - numpy
   - obspy
   - pandas
@@ -14,6 +15,7 @@ dependencies:
   - geopandas
   - geos
   - proj4
-  - pyproj
+  - pyproj 1.9.5.1
+  - libxslt
   - basemap
   - jupyter
