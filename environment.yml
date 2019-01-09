@@ -16,7 +16,7 @@ dependencies:
   - geopandas
   - geos
   - proj4
-  - pyproj 1.9.5.1
+  - pyproj = 1.9.5.1
   - libxslt
   - basemap
   - jupyter
