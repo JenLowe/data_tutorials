@@ -13,7 +13,5 @@ dependencies:
   - matplotlib
   - proj4
   - pyproj
-  - crypography
-  - matplotlib
   - basemap
   - jupyter
