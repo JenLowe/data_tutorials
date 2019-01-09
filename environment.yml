@@ -12,6 +12,7 @@ dependencies:
   - obspy
   - pandas
   - matplotlib
+  - mpl_toolkits
   - cryptography
   - proj4
   - pyproj
