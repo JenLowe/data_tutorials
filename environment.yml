@@ -12,6 +12,7 @@ dependencies:
   - r-jsonlite
   - r-Rcpp
   - r-RcppArmadillo
+  - r-geojsonR
   - numpy
   - obspy
   - pandas
