@@ -12,6 +12,7 @@ dependencies:
   - obspy
   - pandas
   - matplotlib
+  - cryptography
   - proj4
   - pyproj
   - basemap
