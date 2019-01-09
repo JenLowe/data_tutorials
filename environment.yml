@@ -5,9 +5,11 @@ dependencies:
   - python = 3.6
   - r
   - r-irkernel 
+  - r-devtools
   - r-essentials
   - r-signal
   - r-timedate
+  - r-jsonlite
   - r-Rcpp
   - r-RcppArmadillo
   - numpy
