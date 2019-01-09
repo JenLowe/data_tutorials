@@ -7,7 +7,7 @@ dependencies:
   - r-irkernel 
   - r-essentials
   - r-signal
-  - TZ: "UCT"
+  - TZ = UCT
   - pytz
   - numpy
   - obspy
