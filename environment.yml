@@ -8,6 +8,7 @@ dependencies:
   - r-essentials
   - r-signal
   - r-timedate
+  - r-RcppArmadillo
   - numpy
   - obspy
   - pandas
