@@ -19,7 +19,6 @@ dependencies:
   - proj4
   - python-dateutil
   - pyproj
-  - libxslt
   - crypography
   - libsodium
   - matplotlib
