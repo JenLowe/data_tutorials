@@ -1,6 +1,7 @@
 name: GeoNet
 channels:
   - conda-forge
+  - XYZ
 dependencies:
   - gcc
   - python = 3.6
