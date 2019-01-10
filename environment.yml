@@ -4,7 +4,22 @@ channels:
 dependencies:
   - gcc
   - python = 3.6
-  - r
+  - r-base=3.4.1
+  - r-dt
+  - r-ggfortify
+  - r-ggplot2
+  - r-gsw
+  - r-httr
+  - r-lubridate
+  - r-mapdata
+  - r-ncdf4
+  - r-oce
+  - r-rcolorbrewer
+  - r-rerddap
+  - r-reshape2
+  - r-sp
+  - r-xtractomatic
+  - r-xts
   - r-irkernel 
   - r-devtools
   - r-essentials
@@ -14,6 +29,7 @@ dependencies:
   - r-Rcpp
   - r-RcppArmadillo
   - numpy
+  - pyshp
   - obspy
   - pandas
   - matplotlib
@@ -24,5 +40,5 @@ dependencies:
   - pyproj = 1.9.5.1
   - jupyter
   - pip:
-    - basemap
+    - git+https://github.com/matplotlib/basemap.git
   
