@@ -29,6 +29,7 @@ dependencies:
   - r-Rcpp
   - r-RcppArmadillo
   - numpy
+  - libgeos
   - pyshp
   - obspy
   - pandas
