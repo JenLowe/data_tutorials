@@ -45,6 +45,5 @@ dependencies:
   - pyproj = 1.9.5.1
   - jupyter
   - pip:
-   - geos
    - git+https://github.com/matplotlib/basemap.git
   
