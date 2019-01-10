@@ -1,7 +1,8 @@
 name: GeoNet
 channels:
   - conda-forge
-dependencies:
+dependencies
+  - gcc
   - python = 3.6
   - r
   - r-irkernel 
