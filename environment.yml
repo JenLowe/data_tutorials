@@ -1,4 +1,6 @@
 name: GeoNet
+channels:
+  - conda-forge
 dependencies:
   - python = 3.6
   - r
@@ -10,6 +12,8 @@ dependencies:
   - r-jsonlite
   - r-Rcpp
   - r-RcppArmadillo
+  - libgeos
+  - libgeos-dev
   - numpy
   - obspy
   - pandas
