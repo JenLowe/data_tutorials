@@ -21,4 +21,3 @@ dependencies:
   - pyproj
   - basemap
   - jupyter
-  - "TZ=UTC" # offset = +00:00 -> Note, UTC does not have DST, also GMT has no DST!
