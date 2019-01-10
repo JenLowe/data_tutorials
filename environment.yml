@@ -17,6 +17,7 @@ dependencies:
   - pandas
   - matplotlib
   - cryptography
+  - geos
   - proj4 = 5.1.0 
   - pyproj
   - basemap
