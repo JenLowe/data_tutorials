@@ -1,6 +1,7 @@
 name: GeoNet
 channels:
   - conda-forge
+  - geonet
   - defaults
 dependencies:
   - gcc
@@ -47,6 +48,4 @@ dependencies:
   - proj4
   - pyproj
   - jupyter
-  - pip:
-    - git@https://github.com/eggert/tz
   
