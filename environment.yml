@@ -36,7 +36,8 @@ dependencies:
   - r-plyr
   - r-tidyr
   - r-openxlsx
-  - numpy #Python packages
+  - numpy 
+  - python-dev#Python packages
   - geopandas
   - pyshp
   - obspy
@@ -54,5 +55,4 @@ dependencies:
   - jupyter
   - pip:
     - virtualenv
-    - basemap
   
