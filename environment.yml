@@ -54,4 +54,5 @@ dependencies:
   - jupyter
   - pip:
     - virtualenv
+    - basemap
   
