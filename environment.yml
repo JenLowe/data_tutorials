@@ -42,7 +42,6 @@ dependencies:
   - pillow
   - netCDF4
   - OWSLib 
-  - basemap
   - basemap-data-hires
   - proj4
   - pyproj
@@ -50,4 +49,5 @@ dependencies:
   - jupyter
   - pip:
     - virtualenv
+    - basemap
   
