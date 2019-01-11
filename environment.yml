@@ -8,7 +8,6 @@ dependencies:
   - gcc
   - anaconda
   - python = 3.6
-  - apt-get install tzdata
   - r-base=3.4.1 #R packages
   - r-dt
   - r-ggfortify
