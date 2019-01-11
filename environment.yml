@@ -48,4 +48,6 @@ dependencies:
   - pyproj
   - brewer2mpl
   - jupyter
+  - pip:
+    - virtualenv
   
