@@ -35,7 +35,6 @@ dependencies:
   - r-data.table
   - r-plyr
   - r-tidyr
-  - r-RcppBDT
   - r-openxlsx
   - numpy #Python packages
   - geopandas
