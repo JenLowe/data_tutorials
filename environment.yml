@@ -1,7 +1,8 @@
 name: GeoNet
 channels:
   - conda-forge
-  - geonet
+  - bioconda
+  - bokeh
   - defaults
 dependencies:
   - gcc
