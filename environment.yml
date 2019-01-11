@@ -8,6 +8,7 @@ dependencies:
   - gcc
   - anaconda
   - python = 3.6
+  - tzdata
   - r-base=3.4.1 #R packages
   - r-dt
   - r-ggfortify
@@ -48,5 +49,6 @@ dependencies:
   - basemap-data-hires
   - proj4
   - pyproj
+  - brewer2mpl
   - jupyter
   
