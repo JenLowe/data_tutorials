@@ -36,8 +36,7 @@ dependencies:
   - r-plyr
   - r-tidyr
   - r-openxlsx
-  - numpy 
-  - python-dev#Python packages
+  - numpy #Python packages
   - geopandas
   - pyshp
   - obspy
