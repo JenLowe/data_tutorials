@@ -31,6 +31,12 @@ dependencies:
   - r-Rcpp
   - r-RcppArmadillo
   - r-lubridate
+  - r-readxl
+  - r-data.table
+  - r-plyr
+  - r-tidyr
+  - r-RcppBDT
+  - r-openxlsx
   - numpy #Python packages
   - geopandas
   - pyshp
