@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - defaults
+  - asmeurer
 dependencies:
   - glibc
   - python = 3.6
