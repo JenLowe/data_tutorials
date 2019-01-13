@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - gcc
-  - libc6
+  - glibc
   - anaconda
   - python = 3.6
   - r-base=3.4.1 #R packages
