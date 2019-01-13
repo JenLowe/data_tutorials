@@ -3,8 +3,7 @@ channels:
   - defaults
 dependencies:
   - gcc
-  - "/etc/timezone:/etc/timezone:ro"
-  - "/etc/localtime:/etc/localtime:ro"
+  - pytz
   - anaconda
   - python = 3.6
   - r-base=3.4.1 #R packages
