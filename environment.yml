@@ -3,6 +3,8 @@ channels:
   - defaults
 dependencies:
   - gcc
+  - "/etc/timezone:/etc/timezone:ro"
+  - "/etc/localtime:/etc/localtime:ro"
   - anaconda
   - python = 3.6
   - r-base=3.4.1 #R packages
@@ -54,7 +56,4 @@ dependencies:
   - pip:
     - virtualenv
     - basemap
-volumes:
-    - "/etc/timezone:/etc/timezone:ro"
-    - "/etc/localtime:/etc/localtime:ro"
   
