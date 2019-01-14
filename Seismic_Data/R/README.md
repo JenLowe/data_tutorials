@@ -1,4 +1,4 @@
-# Accessing Seismic Data in R
+# Accessing Seismic Data in R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master)
 
 File Name                     | Description  | Output
 ----------------------------- | -------------|---------------------------------------
