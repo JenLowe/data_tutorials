@@ -1,4 +1,4 @@
-# <center> Accessing Seismic Data in R
+# Accessing Seismic Data in R
 
 File Name                     | Description  | Output
 ----------------------------- | -------------|---------------------------------------
