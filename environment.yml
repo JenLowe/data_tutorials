@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python = 3.6
+  - xorg-libc6
   - r-base=3.4.1 #R packages
   - r-dt
   - r-ggfortify
