@@ -8,3 +8,5 @@
 |[Station_Data_using_FDSN_in_R](R/Station_Data_using_FDSN_in_R.ipynb) |In this notebook we will look at the station active in a set time frame in a set area. By the end of this tutorial we have a station map like the one below | <img src="R/station.png" height="100" width="100"> |
 |[Get_waveform_data_using_FDSN_in_R](R/Get_waveform_data_using_FDSN_in_R.ipynb)|In this tutorial we will get the wavefrom data from one station. By the end of this notebook you should be able to make a graph like the one. |<img src="R/waveform.png" height="100" width="100">|
 
+
+## Accessing Seismic Data in Python ## 
