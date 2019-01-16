@@ -1,6 +1,6 @@
 # Seismic Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master)
 ## Accessing Seismic Data in R ## 
-The files in this folders are R notebooks that will demonstrate some simple ways to use the GeoNet FDSN webservices in R.
+R notebooks that will demonstrate some simple ways to use the GeoNet FDSN webservices in R.
 
 |File                  | Description  | Output|
 |--------------------- | ------|---------------------------------------|
@@ -12,8 +12,7 @@ The files in this folders are R notebooks that will demonstrate some simple ways
 
 
 ## Accessing Seismic Data in Python ## 
-
-The files in this folders are Python notebooks that will demonstrate some simple ways to use the GeoNet FDSN webservices in Python and with the Python module, ObsPy. Please note these examples use Python 3, so the syntax may differ slightly to Python 2.7. We recommend you use Python 3 as it has some important bug fixes.
+Python notebooks will demonstrate some simple ways to use the GeoNet FDSN webservices in Python and with the Python module, ObsPy. Please note these examples use Python 3, so the syntax may differ slightly to Python 2.7. We recommend you use Python 3 as it has some important bug fixes.
 
 | File | Description | Output |
 |------|-------------|--------|
