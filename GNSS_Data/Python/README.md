@@ -4,4 +4,4 @@ The files in this folders are Python notebooks that will demonstrate some simple
 
 File Name                     | Description | Output
 ----------------------------- | ------------| ----------
-[Introduction](Introduction_GeoNet's_GNSS_data.ipynb)|In this notebook we will learn how to get data from one GNSS station. |<img scr="plot.png">
+[Introduction](Introduction_GeoNet's_GNSS_data.ipynb)|In this notebook we will learn how to get data from one GNSS station. |<img src="plot.png">
