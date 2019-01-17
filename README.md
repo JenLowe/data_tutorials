@@ -1,4 +1,4 @@
-# Data Tutorials
+# Data Tutorials [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master)
 
 The purpose of this repository is to provide a home for several Data tutorials written to improve the accesibility of the different GeoNet's data sets. This repository provides an easy way to access the tutorials, versioning and allows the users to suggest changes or improvements.
 
