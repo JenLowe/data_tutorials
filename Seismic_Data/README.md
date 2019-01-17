@@ -4,7 +4,7 @@ R notebooks that will demonstrate some simple ways to use the GeoNet FDSN webser
 
 |File                  | Description  | Output|
 |--------------------- | ------|---------------------------------------|
-|[Overview](R/Seismic_data_overview_using_FDSN_in_R.ipynb) | In this tutorial we will look at the work flow from knowing the data of the Seismic Event we wish to look at to getting data on this Seismic Event. We will get a map of Seismic Events, then we will get a station map, and we will get waveform data from one these stations | |
+|[Overview](R/Seismic_data_overview_using_FDSN_in_R.ipynb) | In this tutorial we will look at the work flow from knowing the data of the Seismic Event we wish to look at to getting data on this Seismic Event. | |
 |[Event](R/Event_Data_using_FDSN_in_R.ipynb) |In this tutorial we find all the seismic events that happend in set time| <img src="R/event.png"> |
 |[Station](R/Station_Data_using_FDSN_in_R.ipynb) |In this notebook we will look at the station active in a set time frame in a set area.| <img src="R/station.png"> |
 |[Waveform Data](R/Get_waveform_data_using_FDSN_in_R.ipynb)|In this tutorial we will get the wavefrom data from one station.|<img src="R/waveform.png">|
