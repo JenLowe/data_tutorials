@@ -33,6 +33,11 @@ dependencies:
   - r-plyr
   - r-tidyr
   - r-openxlsx
+  - r-bitops
+  - r-pracma
+  - r-RCurl
+  - r-seismicRoll
+  - r-XML
   - numpy #Python packages
   - geopandas
   - pyshp
