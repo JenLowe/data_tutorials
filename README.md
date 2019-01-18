@@ -2,7 +2,7 @@
 
 The purpose of this repository is to provide a home for several Data tutorials written to improve the accesibility of the different GeoNet's data sets. This repository provides an easy way to access the tutorials, versioning and allows the users to suggest changes or improvements.
 
-The files in this folders are Jupyter notebooks  that will demonstrate some simple ways to retrieve data from different services such as: FDSN,FITS,etc. in Python and R programming languages. 
+The files in this folders are [Jupyter notebooks](https://jupyter.org/)  that will demonstrate some simple ways to retrieve data from different services such as: FDSN,FITS,etc. in Python and R programming languages. 
 
 ## Summary of Tutorials
 
