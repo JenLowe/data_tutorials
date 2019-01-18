@@ -36,7 +36,6 @@ dependencies:
   - r-bitops
   - r-pracma
   - r-RCurl
-  - r-seismicRoll
   - r-XML
   - numpy #Python packages
   - geopandas
