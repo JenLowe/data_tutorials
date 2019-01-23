@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python = 3.6
+  - tzdb
   - r-base=3.4.1 #R packages
   - r-dt
   - r-ggfortify
