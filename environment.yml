@@ -3,8 +3,7 @@ channels:
   - defaults
 dependencies:
   - python = 3.6
-  - Qt
-  - r-base=3.4.1 #R packages
+  - r-base=3.5.12 #R packages
   - r-rpostgresql
   - r-lubridate 
   - r-dt
