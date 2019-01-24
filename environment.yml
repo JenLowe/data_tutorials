@@ -2,7 +2,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python = 3.6
   - r-base #R packages
   - r-rpostgresql
   - r-lubridate 
@@ -39,7 +38,8 @@ dependencies:
   - r-pracma
   - r-RCurl
   - r-XML
-  - numpy #Python packages
+  - python = 3.6 #Python packages
+  - numpy
   - geopandas
   - pyshp
   - obspy
@@ -59,4 +59,5 @@ dependencies:
   - pip:
     - virtualenv
     - basemap
+    - json
   
