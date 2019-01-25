@@ -47,7 +47,6 @@ dependencies:
   - matplotlib
   - cryptography
   - geos
-  - datetime
   - pillow
   - netCDF4
   - OWSLib 
