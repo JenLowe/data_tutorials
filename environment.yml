@@ -4,13 +4,13 @@ channels:
 dependencies:
   - r-base #R packages
   - r-rpostgresql
-  - r-lubridate 
   - r-dt
   - r-ggfortify
   - r-ggplot2
   - r-gsw
   - r-httr
   - r-lubridate
+  - r-bh
   - r-mapdata
   - r-ncdf4
   - r-oce
@@ -24,11 +24,11 @@ dependencies:
   - r-devtools
   - r-essentials
   - r-signal
+  - r-stringi
   - r-timedate
   - r-jsonlite
   - r-Rcpp
   - r-RcppArmadillo
-  - r-lubridate
   - r-readxl
   - r-data.table
   - r-plyr
@@ -47,6 +47,7 @@ dependencies:
   - matplotlib
   - cryptography
   - geos
+  - datetime
   - pillow
   - netCDF4
   - OWSLib 
