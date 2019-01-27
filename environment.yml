@@ -5,7 +5,7 @@ dependencies:
   - r-base #R packages
   - r-rpostgresql
   - r-dt
-  - r- tidyverse
+  - r-tidyverse
   - r-ggfortify
   - r-ggplot2
   - r-gsw
