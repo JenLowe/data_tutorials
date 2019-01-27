@@ -40,6 +40,8 @@ dependencies:
   - r-XML
   - python = 3.6 #Python packages
   - numpy
+  - arrow
+  - iso8601
   - geopandas
   - pyshp
   - obspy
