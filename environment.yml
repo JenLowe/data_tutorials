@@ -9,9 +9,7 @@ dependencies:
   - r-ggplot2
   - r-gsw
   - r-httr
-  - r-Rtools
   - r-lubridate
-  - r-rcppcctz
   - r-bh
   - r-mapdata
   - r-ncdf4
