@@ -4,5 +4,5 @@
 jupyter labextension install @jupyterlab/toc
 
 #install tzdata
-Run apt-get install -y tzdata |
+RUN apt-get install -y tzdata |
  && dpkg-reconfigure
