@@ -3,7 +3,7 @@ channels:
   - defaults
   
 dependencies:
-  - r-r
+  - r
   - r-base #R packages
   - r-rpostgresql
   - r-dt
