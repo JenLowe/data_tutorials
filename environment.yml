@@ -62,6 +62,11 @@ dependencies:
   - pip:
     - virtualenv
     - basemap
-  - sudo apt-get update
-  - sudo apt-get install tzdata 
-  
+
+# Relocate the timezone file
+RUN mkdir -p /config/etc && mv /etc/timezone /config/etc/ && ln -s /config/etc/timezone /etc/
+# Set timezone as specified in /config/etc/timezone
+dpkg-reconfigure -f noninteractive tzdata
+# Set timezone as specified in /config/etc/timezone
+dpkg-reconfigure -f noninteractive tzdata
+
