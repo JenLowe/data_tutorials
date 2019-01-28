@@ -62,7 +62,6 @@ dependencies:
   - pip:
     - virtualenv
     - basemap
-volumes:
   - "/etc/timezone:/etc/timezone:ro"
   - "/etc/localtime:/etc/localtime:ro"
 
