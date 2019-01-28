@@ -62,11 +62,7 @@ dependencies:
   - pip:
     - virtualenv
     - basemap
-
-# Relocate the timezone file
-RUN mkdir -p /config/etc && mv /etc/timezone /config/etc/ && ln -s /config/etc/timezone /etc/
-# Set timezone as specified in /config/etc/timezone
-dpkg-reconfigure -f noninteractive tzdata
-# Set timezone as specified in /config/etc/timezone
-dpkg-reconfigure -f noninteractive tzdata
+volumes:
+  - "/etc/timezone:/etc/timezone:ro"
+  - "/etc/localtime:/etc/localtime:ro"
 
