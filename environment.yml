@@ -60,6 +60,7 @@ dependencies:
   - pytz
   - brewer2mpl
   - jupyter
+  - jupyter-client
   - pip:
     - virtualenv
     - basemap
