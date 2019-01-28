@@ -1,7 +1,4 @@
 #!/bin/bash
 
-# Install JupyterLab extension
-jupyter labextension install @jupyterlab/toc
-
 #install tzdata
 RUN apt-get source tzdata && apt-get build-dep tzdata && dpkg-reconfigure
