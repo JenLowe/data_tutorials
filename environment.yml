@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - defaults
+  
 dependencies:
   - r-base #R packages
   - r-rpostgresql
@@ -62,6 +63,3 @@ dependencies:
   - pip:
     - virtualenv
     - basemap
-  - "/etc/timezone:/etc/timezone:ro"
-  - "/etc/localtime:/etc/localtime:ro"
-
