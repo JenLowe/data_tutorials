@@ -1,4 +1,9 @@
 #!/bin/bash
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable python-markdown/main
 
+# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
+jupyter trust index.ipynb 
 #install tzdata
 RUN apt-get source tzdata && apt-get build-dep tzdata && dpkg-reconfigure
