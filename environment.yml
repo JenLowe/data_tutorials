@@ -1,12 +1,10 @@
 channels:
   - conda-forge
-  - defaults
   
 dependencies:
   - python = 3.6 #Python packages
   - numpy
   - arrow
-  - iso8601
   - geopandas
   - pyshp
   - obspy
@@ -24,6 +22,7 @@ dependencies:
   - brewer2mpl
   - jupyter
   - jupyter_client
+  - ipykernel
+  - jupyter_contrib_nbextensions
   - pip:
-    - virtualenv
     - basemap
