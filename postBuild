@@ -1,9 +1,0 @@
-#!/bin/bash
-jupyter contrib nbextension install --user
-# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust index.ipynb 
-#install tzdata
-apt-get update 
-apt-get update tzdata
-dpkg-reconfigure
-jupyter-repo2docker --debug https://github.com/JenLowe/data_tutorials
