@@ -6,4 +6,4 @@ jupyter trust index.ipynb
 apt-get update 
 apt-get update tzdata
 dpkg-reconfigure
-
+jupyter-repo2docker --debug https://github.com/JenLowe/data_tutorials
