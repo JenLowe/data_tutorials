@@ -12,7 +12,7 @@ The files in this folders are [Jupyter notebooks](https://jupyter.org/)  that wi
 | [GNSS Data](GNSS_Data) | Demostrative tutorials to retrieve and perform basics task with GNSS Data, mostly with the use of FITS API. The Tutorials are presented in Jupyter notebooks written in Python and R Programming languages.|
 | [Volcano Data](Volcano_Data)| Demostrative tutorials to access Volcano Data with the use of FITS API and FDSN Web services. The Tutorials are presented in Jupyter notebooks written in Python and R Programming languages.|
 
-## How to use My Binder
+## How to use My Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master)
 
 My Binder is a free online tool to be able to run jupyter notebooks without installing anything on your computer. Binder will launch in your internet browser.
 
