@@ -16,7 +16,7 @@ The files in this folders are [Jupyter notebooks](https://jupyter.org/)  that wi
 
 My Binder is a free online tool to be able to run jupyter notebooks without installing anything on your computer. Binder will launch in your internet browser.
 
-There are some important things to note when using binder. 
+There are some important things to know when using binder. 
 -	Binder can take up to 2 minutes to start
 -	The things you do in binder will **NOT** save for the next time you open binder
 -	Binder has a **time limit**. If the tab is **inactive** for more than **10 minutes** (not running code or have someone scroll on the page) **it will time out** and you will need to restart it. 
