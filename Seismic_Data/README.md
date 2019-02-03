@@ -1,4 +1,4 @@
-# Seismic Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?filepath=Seismic_Data)
+# Seismic Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?urlpath=lab/tree/Seismic_Data)
 ## Accessing Seismic Data in R ## 
 R notebooks that will demonstrate some simple ways to use the GeoNet FDSN webservices in R.
 
