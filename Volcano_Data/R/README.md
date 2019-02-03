@@ -1,4 +1,4 @@
-# Accessing Volvaon  Data in R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?filepath=GNSS_Data%2FR)
+# Accessing Volvaon  Data in R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?filepath=Volcano_Data%2FR)
 The files in this folders are R notebooks that will demonstrate some simple ways to use the GeoNet FITS API in R.
 
 File Name                     | Description  | Output
