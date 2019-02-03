@@ -1,39 +1,10 @@
 channels:
   - conda-forge
-  - defaults
+  
 dependencies:
-  - python = 3.6
-  - r-base=3.4.1 #R packages
-  - r-dt
-  - r-ggfortify
-  - r-ggplot2
-  - r-gsw
-  - r-httr
-  - r-lubridate
-  - r-mapdata
-  - r-ncdf4
-  - r-oce
-  - r-rcolorbrewer
-  - r-rerddap
-  - r-reshape2
-  - r-sp
-  - r-xtractomatic
-  - r-xts
-  - r-irkernel 
-  - r-devtools
-  - r-essentials
-  - r-signal
-  - r-timedate
-  - r-jsonlite
-  - r-Rcpp
-  - r-RcppArmadillo
-  - r-lubridate
-  - r-readxl
-  - r-data.table
-  - r-plyr
-  - r-tidyr
-  - r-openxlsx
-  - numpy #Python packages
+  - python = 3.6 #Python packages
+  - numpy
+  - arrow
   - geopandas
   - pyshp
   - obspy
@@ -47,9 +18,11 @@ dependencies:
   - basemap-data-hires
   - proj4
   - pyproj
+  - pytz
   - brewer2mpl
   - jupyter
+  - jupyter_client
+  - ipykernel
+  - jupyter_contrib_nbextensions
   - pip:
-    - virtualenv
     - basemap
-  

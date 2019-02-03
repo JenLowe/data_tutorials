@@ -1,4 +1,4 @@
-# GNSS Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master)
+# GNSS Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?urlpath=lab/tree/GNSS_Data)
 
  ## Accessing GNSS Data in R ##
  
