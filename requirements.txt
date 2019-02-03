@@ -8,5 +8,5 @@ obspy
 cryptography
 geos
 pillow
-proj4
+proj
 basemap
