@@ -21,5 +21,5 @@ There are some important things to know when using binder.
 -	The things you do in binder will **NOT** save for the next time you open binder
 -	Binder has a **time limit**. If the tab is **inactive** for more than **10 minutes** (not running code or have someone scroll on the page) **it will time out** and you will need to restart it. 
 
-If you want to save a csv or image you have made in binder right click on it and click download
+If you want to save a csv or image you have made in binder right click on it and click download.
 If you want to run a notebook you have save to your computer in binder you can click upload and upload a saved notebook from your computer. 
