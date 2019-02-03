@@ -1,0 +1,12 @@
+
+numpy
+matplotlib
+pyproj
+pandas
+geopandas
+obspy
+cryptography
+geos
+pillow
+proj4
+basemap
