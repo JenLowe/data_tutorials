@@ -1,4 +1,4 @@
---upgrade setuptools.
+setuptools
 numpy
 matplotlib
 pyproj
