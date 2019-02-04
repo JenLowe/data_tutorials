@@ -1,4 +1,4 @@
-name: example-environment
+name: GeoNet
 channels:
   - conda-forge
 dependencies:
@@ -8,7 +8,7 @@ dependencies:
   - pyproj
   - pandas
   - geopandas
-  - obspy
+  - obspy == 1.1.0
   - cryptography
   - geos
   - pillow
