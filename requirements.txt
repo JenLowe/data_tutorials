@@ -6,5 +6,5 @@ geopandas
 obspy
 cryptography
 geos
-basemap‑1.2.0‑cp27‑cp27m‑win32.whl
+https://github.com/matplotlib/basemap/archive/v1.1.0.tar.gz
 pillow
