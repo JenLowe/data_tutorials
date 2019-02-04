@@ -12,3 +12,4 @@ dependencies:
   - cryptography
   - geos
   - pillow
+  - basemap
