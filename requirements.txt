@@ -6,4 +6,5 @@ geopandas
 obspy
 cryptography
 geos
+basemap‑1.2.0‑cp27‑cp27m‑win32.whl
 pillow
