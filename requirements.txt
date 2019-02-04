@@ -7,3 +7,4 @@ obspy
 cryptography
 geos
 pillow
+Cartopy
