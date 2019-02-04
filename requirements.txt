@@ -8,4 +8,4 @@ obspy
 cryptography
 geos
 pillow
---no-cache-dir Cartopy
+
