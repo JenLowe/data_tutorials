@@ -1,5 +1,4 @@
 setuptools
-libpq-dev
 numpy
 matplotlib
 pyproj
@@ -9,4 +8,4 @@ obspy
 cryptography
 geos
 pillow
-Cartopy
+--no-cache-dir Cartopy
