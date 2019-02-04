@@ -1,4 +1,5 @@
 setuptools
+libpq-dev
 numpy
 matplotlib
 pyproj
