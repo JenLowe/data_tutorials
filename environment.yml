@@ -5,7 +5,6 @@ dependencies:
   - cartopy
   - numpy
   - matplotlib
-  - pyproj
   - pandas
   - geopandas
   - obspy == 1.1.0
@@ -13,3 +12,5 @@ dependencies:
   - geos
   - pillow
   - basemap
+  - proj4
+  - pyproj
