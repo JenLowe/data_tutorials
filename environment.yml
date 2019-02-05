@@ -11,6 +11,3 @@ dependencies:
   - cryptography
   - geos
   - pillow
-  - basemap
-  - proj4
-  - pyproj
