@@ -9,5 +9,9 @@ dependencies:
   - geopandas
   - obspy == 1.1.0
   - cryptography
+  - basemap == 1.1.0
+  - proj4 == 4.9.3
+  - pyproj == 1.9.5.1
+  - basemap-data-hires
   - geos
   - pillow
