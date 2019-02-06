@@ -7,7 +7,7 @@ dependencies:
   - matplotlib
   - pandas
   - geopandas
-  - obspy == 1.1.0
+  - obspy
   - cryptography
   - proj4 
   - pyproj 
