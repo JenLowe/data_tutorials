@@ -15,3 +15,4 @@ dependencies:
   - basemap-data-hires
   - geos
   - pillow
+  - nb_conda_kernels
