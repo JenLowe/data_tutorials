@@ -1,6 +1,7 @@
-# Accessing Volvaon  Data in R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?urlpath=lab/tree/Volcano_Data/R)
+# Accessing Volvaon  Data in R 
+
 The files in this folders are R notebooks that will demonstrate some simple ways to use the GeoNet FITS API in R.
 
 File Name                     | Description  | Output
 ----------------------------- | -------------|---------------------------------------
-[Volcano Chemistry data using FITS](Volcano_Chemistry_data_using_FITS_in_R.ipynb) | In this notebook we look at getting volcano chemistry data from a set area.| <img src="SO2flux.png"> <img src="sites.png">
+[Volcano Chemistry data using FITS](R/Volcano_Chemistry_data_using_FITS_in_R.ipynb) |This tutorial demonstrate how to retrieve Volcano chemistry data from a set area using R language.|<img src="R/SO2flux.png"> <img src="R/sites.png">
