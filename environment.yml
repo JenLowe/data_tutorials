@@ -4,10 +4,12 @@ channels:
 dependencies:
   - cartopy
   - numpy
-  - matplotlib
+  - matplotlib<2.2
   - pandas
   - geopandas
-  - obspy == 1.1.0
+  - obspy
   - cryptography
+  - proj4 
+  - pyproj 
   - geos
   - pillow
