@@ -1,14 +1,14 @@
-# GNSS Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JenLowe/data_tutorials/master?urlpath=lab/tree/GNSS_Data)
+# GNSS Data 
 
  ## Accessing GNSS Data in R ##
- 
+
 The R notebooks will demonstrate some simple ways to use the GeoNet FITS API in R.
 
-File Name                     | Description  | Output
+Tutorial Name                     | Description  | Output
 ----------------------------- | -------------|---------------------------------------
-[Introduction](R/Introduction_to_GNSS_data_using_FITS_in_R.ipynb)|In this notebook we will learn how to get data from one GNSS station | <img src="R/plot.png">
-[Multiple station access](R/Multiple_station_access_for_GNSS_data_in_R.ipynb)|In this notebook we will make a map of GNSS stations in an area then get the data from the station. | <img src="R/map.png">
-[Triming and equipment changes](R/Triming_and_equipment_changes_for_GNSS_data.ipynb)|In this notebook we learn how to get data on equipment changes for GNSS stations|<img src="R/equipment_changes.png">
+[Introduction to GNSS Time Series- R](R/Introduction_to_GNSS_data_using_FITS_in_R.ipynb)||This Notebook demostrates how to access and retrieve GNSS time series from GeoNet Network in R programming language.| <img src="R/plot.png">
+[Access multiple GNSS sites - R](R/Multiple_station_access_for_GNSS_data_in_R.ipynb)| In this notebook we will make a map of GNSS stations in an set area, then get the data from the stations in this area.| <img src="R/map.png">
+ [Triming and equipment changes](R/Triming_and_equipment_changes_for_GNSS_data.ipynb)||In this notebook we learn how to identify equipment changes or events in GNSS time series for an specific station.|<img src="R/equipment_changes.png">
 
 ## Accessing GNSS Data in Python ##
 
@@ -16,5 +16,5 @@ The Python notebooks will demonstrate some simple ways to use the GeoNet FITS AP
 
 File Name                     | Description | Output
 ----------------------------- | ------------| ----------
-[Introduction](Python/Introduction_GeoNet's_GNSS_data.ipynb)|In this notebook we will learn how to get data from one GNSS station. |<img src="Python/plot.png">
+[Introduction to GNSS Time Series- Python](Python/Introduction_GeoNet's_GNSS_data.ipynb)|Demonstrates how to access and retrieve GNSS time series from GeoNet Network in Python programming language.|<img src="Python/plot.png">
 
