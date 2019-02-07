@@ -5,5 +5,5 @@ The files in this folders are Python notebooks that will demonstrate some simple
 
 File Name                     | Description  | Output
 ----------------------------- | -------------|---------------------------------------
-[Volcano Chemistry data using FITS](Python/Volcano_Chemistry_data_using_FITS_in_python.ipynb) | This tutorial demonstrate how to retrieve Volcano chemistry data from a set area using Python language.| <img src="Python/plot.png"> <img src="Python/sites.png">
-[GeoNet's Acoustic Data](Python/GeoNet's_Acoustic_Data.ipynb)|This tutorial will show how to get seismic-acoustic waveform data to study volcanic events.|<img src="Python/accoustic.png">
+[Volcano Chemistry data using FITS](Volcano_Chemistry_data_using_FITS_in_python.ipynb) | This tutorial demonstrate how to retrieve Volcano chemistry data from a set area using Python language.| <img src="Python/plot.png"> <img src="sites.png">
+[GeoNet's Acoustic Data](GeoNet's_Acoustic_Data.ipynb)|This tutorial will show how to get seismic-acoustic waveform data to study volcanic events.|<img src="accoustic.png">
