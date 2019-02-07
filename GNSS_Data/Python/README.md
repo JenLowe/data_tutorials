@@ -4,4 +4,4 @@ The files in this folders are Python notebooks that will demonstrate some simple
 
 File Name                     | Description | Output
 ----------------------------- | ------------| ----------
-[Introduction to GNSS Time Series- Python](Python/Introduction_GeoNet's_GNSS_data.ipynb)|Demonstrates how to access and retrieve GNSS time series from GeoNet Network in Python programming language.|<img src="Python/plot.png">
+[Introduction to GNSS Time Series- Python](Introduction_GeoNet's_GNSS_data.ipynb)|Demonstrates how to access and retrieve GNSS time series from GeoNet Network in Python programming language.|<img src="plot.png">
