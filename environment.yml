@@ -13,4 +13,3 @@ dependencies:
   - pyproj 
   - geos
   - pillow
-  - nb_conda_kernels
