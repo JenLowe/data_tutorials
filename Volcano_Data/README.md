@@ -16,5 +16,4 @@ The files in this folders are R notebooks that will demonstrate some simple ways
 
 File Name                     | Description  | Output
 ----------------------------- | -------------|---------------------------------------
-[Volcano Chemistry data using FITS](R/Volcano_Chemistry_data_using_FITS_in_R.ipynb) |This tutorial demonstrate how to retrieve Volcano chemistry data from a set area using R language.|
- <img src="R/SO2flux.png"> <img src="R/sites.png">
+[Volcano Chemistry data using FITS](R/Volcano_Chemistry_data_using_FITS_in_R.ipynb) |This tutorial demonstrate how to retrieve Volcano chemistry data from a set area using R language.|<img src="R/SO2flux.png"> <img src="R/sites.png">
