@@ -2,8 +2,6 @@ name: GeoNet
 channels:
   - conda-forge
 dependencies:
-  - ipykernel
-  - irkernel
   - cartopy
   - numpy
   - matplotlib<2.2
